@@ -4,7 +4,7 @@ import streamlit as st
 import yfinance as yf 
 
 st.title("yfinance")
-st.header("::wolf:: Market Data")
+st.header("::wolf:: Stock Market Data by Laxmi Yadav")
 st.write("---")
 
 POPULAR_STOCK = ["MSFT", "TSLA", "GOOGL", "AAPL", "AMZN", "NVDA", "META", "NFLX", "INTC", "COIN"]
